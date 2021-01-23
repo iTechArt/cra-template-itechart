@@ -1,0 +1,26 @@
+{
+  "name": "cra-template-itechart",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "redux",
+    "redux-saga",
+    "saga",
+    "typescript"
+  ],
+  "description": "React Redux Saga App Temaplte from Create React App.",
+  "main": "template.json",
+  "license": "MIT",
+  "engines": {
+    "node": ">=8.10"
+  },
+  "bugs": {
+    "url": "https://github.com/ptaberg/cra-template-saga-ts/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
