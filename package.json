@@ -1,5 +1,5 @@
 {
-  "name": "cra-template-itechart",
+  "name": "cra-template-itechart-redux-saga-ts",
   "version": "1.0.0",
   "keywords": [
     "react",
@@ -16,8 +16,12 @@
   "engines": {
     "node": ">=8.10"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ptaberg/iTechArt/cra-template-itechart.git"
+  },
   "bugs": {
-    "url": "https://github.com/ptaberg/cra-template-saga-ts/issues"
+    "url": "https://github.com/iTechArt/cra-template-itechart/issues"
   },
   "files": [
     "template",
